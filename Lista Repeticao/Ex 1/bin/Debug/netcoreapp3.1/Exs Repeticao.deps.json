@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exs Repeticao/1.0.0": {
+        "runtime": {
+          "Exs Repeticao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exs Repeticao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
