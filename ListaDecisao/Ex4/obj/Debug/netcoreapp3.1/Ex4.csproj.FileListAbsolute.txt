@@ -1,0 +1,11 @@
+C:\Users\nborges\Desktop\Lista-Exercicios\ListaDecisao\Ex4\obj\Debug\netcoreapp3.1\Ex4.csprojAssemblyReference.cache
+C:\Users\nborges\Desktop\Lista-Exercicios\ListaDecisao\Ex4\obj\Debug\netcoreapp3.1\Ex4.AssemblyInfoInputs.cache
+C:\Users\nborges\Desktop\Lista-Exercicios\ListaDecisao\Ex4\obj\Debug\netcoreapp3.1\Ex4.AssemblyInfo.cs
+C:\Users\nborges\Desktop\Lista-Exercicios\ListaDecisao\Ex4\bin\Debug\netcoreapp3.1\Ex4.exe
+C:\Users\nborges\Desktop\Lista-Exercicios\ListaDecisao\Ex4\bin\Debug\netcoreapp3.1\Ex4.deps.json
+C:\Users\nborges\Desktop\Lista-Exercicios\ListaDecisao\Ex4\bin\Debug\netcoreapp3.1\Ex4.runtimeconfig.json
+C:\Users\nborges\Desktop\Lista-Exercicios\ListaDecisao\Ex4\bin\Debug\netcoreapp3.1\Ex4.runtimeconfig.dev.json
+C:\Users\nborges\Desktop\Lista-Exercicios\ListaDecisao\Ex4\bin\Debug\netcoreapp3.1\Ex4.dll
+C:\Users\nborges\Desktop\Lista-Exercicios\ListaDecisao\Ex4\bin\Debug\netcoreapp3.1\Ex4.pdb
+C:\Users\nborges\Desktop\Lista-Exercicios\ListaDecisao\Ex4\obj\Debug\netcoreapp3.1\Ex4.dll
+C:\Users\nborges\Desktop\Lista-Exercicios\ListaDecisao\Ex4\obj\Debug\netcoreapp3.1\Ex4.pdb
