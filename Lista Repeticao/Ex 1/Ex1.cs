@@ -6,7 +6,7 @@ public class Ex1
     public void ex1()
     {
         int nota;
-        Console.WriteLine("Insira a nota do aluno: ");
+        Console.Write("Insira a nota do aluno: ");
         nota = Convert.ToInt32(Console.ReadLine());
 
         //Console.ReadKey();

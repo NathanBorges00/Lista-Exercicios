@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Lista Repeticao/Ex2/bin/Debug/netcoreapp3.1/Ex2.dll",
+            "program": "${workspaceFolder}/Lista Repeticao.dll",
             "args": [],
             "cwd": "${workspaceFolder}/Lista Repeticao/Ex2",
             "console": "externalTerminal",

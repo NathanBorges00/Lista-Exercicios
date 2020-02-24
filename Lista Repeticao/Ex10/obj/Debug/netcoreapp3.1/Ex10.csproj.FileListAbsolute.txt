@@ -1,0 +1,11 @@
+C:\Users\nborges\Desktop\Lista-Exercicios\Lista Repeticao\Ex10\bin\Debug\netcoreapp3.1\Ex10.exe
+C:\Users\nborges\Desktop\Lista-Exercicios\Lista Repeticao\Ex10\bin\Debug\netcoreapp3.1\Ex10.deps.json
+C:\Users\nborges\Desktop\Lista-Exercicios\Lista Repeticao\Ex10\bin\Debug\netcoreapp3.1\Ex10.runtimeconfig.json
+C:\Users\nborges\Desktop\Lista-Exercicios\Lista Repeticao\Ex10\bin\Debug\netcoreapp3.1\Ex10.runtimeconfig.dev.json
+C:\Users\nborges\Desktop\Lista-Exercicios\Lista Repeticao\Ex10\bin\Debug\netcoreapp3.1\Ex10.dll
+C:\Users\nborges\Desktop\Lista-Exercicios\Lista Repeticao\Ex10\bin\Debug\netcoreapp3.1\Ex10.pdb
+C:\Users\nborges\Desktop\Lista-Exercicios\Lista Repeticao\Ex10\obj\Debug\netcoreapp3.1\Ex10.csprojAssemblyReference.cache
+C:\Users\nborges\Desktop\Lista-Exercicios\Lista Repeticao\Ex10\obj\Debug\netcoreapp3.1\Ex10.AssemblyInfoInputs.cache
+C:\Users\nborges\Desktop\Lista-Exercicios\Lista Repeticao\Ex10\obj\Debug\netcoreapp3.1\Ex10.AssemblyInfo.cs
+C:\Users\nborges\Desktop\Lista-Exercicios\Lista Repeticao\Ex10\obj\Debug\netcoreapp3.1\Ex10.dll
+C:\Users\nborges\Desktop\Lista-Exercicios\Lista Repeticao\Ex10\obj\Debug\netcoreapp3.1\Ex10.pdb
