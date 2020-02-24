@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nborges\\Desktop\\EXS CI&T\\Exs Repeticao\\Exs Repeticao.csproj",
+      "projectUniqueName": "C:\\Users\\nborges\\Desktop\\Lista-Exercicios\\Lista Repeticao\\Ex 1\\Exs Repeticao.csproj",
       "projectName": "Exs Repeticao",
-      "projectPath": "C:\\Users\\nborges\\Desktop\\EXS CI&T\\Exs Repeticao\\Exs Repeticao.csproj",
+      "projectPath": "C:\\Users\\nborges\\Desktop\\Lista-Exercicios\\Lista Repeticao\\Ex 1\\Exs Repeticao.csproj",
       "packagesPath": "C:\\Users\\nborges\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nborges\\Desktop\\EXS CI&T\\Exs Repeticao\\obj\\",
+      "outputPath": "C:\\Users\\nborges\\Desktop\\Lista-Exercicios\\Lista Repeticao\\Ex 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nborges\\AppData\\Roaming\\NuGet\\NuGet.Config"
