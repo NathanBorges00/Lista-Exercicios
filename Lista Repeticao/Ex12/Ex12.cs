@@ -10,6 +10,19 @@ public class exercicio12
 {
     public void Ex12()
     {
-        
+        Console.Write("Qual tabuada deseja? ");
+        int tabuada = Convert.ToInt32(Console.ReadLine());
+
+        Console.Write("Tabuada do " + tabuada + ":");
+        Console.Write("\n");
+        Console.Write("\n");
+
+        for(int i = 1; i <= 10; i++)
+        {
+            Console.Write(tabuada + " x " + i + " = " + (tabuada * i));
+            Console.Write("\n");
+        }
+
+        Console.ReadKey();
     }
 }
