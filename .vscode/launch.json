@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Lista Repeticao.dll",
+            "program": "${workspaceFolder}~/Desktop/Lista-Exercicios.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Lista Repeticao/Ex2",
+            "cwd": "${workspaceFolder}~/Desktop/Lista-Exercicios",
             "console": "externalTerminal",
             "stopAtEntry": false
         },
