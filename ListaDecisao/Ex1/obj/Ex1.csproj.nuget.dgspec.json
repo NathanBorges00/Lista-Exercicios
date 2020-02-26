@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nborges\\Desktop\\Lista-Exercicios\\ListaDecisao\\Ex1\\Ex1.csproj": {}
+    "C:\\Users\\nborges\\Desktop\\Lista-Exercicios\\ListaDecisao\\ex1\\Ex1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nborges\\Desktop\\Lista-Exercicios\\ListaDecisao\\Ex1\\Ex1.csproj": {
+    "C:\\Users\\nborges\\Desktop\\Lista-Exercicios\\ListaDecisao\\ex1\\Ex1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nborges\\Desktop\\Lista-Exercicios\\ListaDecisao\\Ex1\\Ex1.csproj",
+        "projectUniqueName": "C:\\Users\\nborges\\Desktop\\Lista-Exercicios\\ListaDecisao\\ex1\\Ex1.csproj",
         "projectName": "Ex1",
-        "projectPath": "C:\\Users\\nborges\\Desktop\\Lista-Exercicios\\ListaDecisao\\Ex1\\Ex1.csproj",
+        "projectPath": "C:\\Users\\nborges\\Desktop\\Lista-Exercicios\\ListaDecisao\\ex1\\Ex1.csproj",
         "packagesPath": "C:\\Users\\nborges\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nborges\\Desktop\\Lista-Exercicios\\ListaDecisao\\Ex1\\obj\\",
+        "outputPath": "C:\\Users\\nborges\\Desktop\\Lista-Exercicios\\ListaDecisao\\ex1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nborges\\AppData\\Roaming\\NuGet\\NuGet.Config"
