@@ -1,0 +1,11 @@
+C:\Users\nborges\Desktop\Exercicios\Lista-Exercicios\Lista Repeticao\Ex14\bin\Debug\netcoreapp3.1\Ex14.exe
+C:\Users\nborges\Desktop\Exercicios\Lista-Exercicios\Lista Repeticao\Ex14\bin\Debug\netcoreapp3.1\Ex14.deps.json
+C:\Users\nborges\Desktop\Exercicios\Lista-Exercicios\Lista Repeticao\Ex14\bin\Debug\netcoreapp3.1\Ex14.runtimeconfig.json
+C:\Users\nborges\Desktop\Exercicios\Lista-Exercicios\Lista Repeticao\Ex14\bin\Debug\netcoreapp3.1\Ex14.runtimeconfig.dev.json
+C:\Users\nborges\Desktop\Exercicios\Lista-Exercicios\Lista Repeticao\Ex14\bin\Debug\netcoreapp3.1\Ex14.dll
+C:\Users\nborges\Desktop\Exercicios\Lista-Exercicios\Lista Repeticao\Ex14\bin\Debug\netcoreapp3.1\Ex14.pdb
+C:\Users\nborges\Desktop\Exercicios\Lista-Exercicios\Lista Repeticao\Ex14\obj\Debug\netcoreapp3.1\Ex14.csprojAssemblyReference.cache
+C:\Users\nborges\Desktop\Exercicios\Lista-Exercicios\Lista Repeticao\Ex14\obj\Debug\netcoreapp3.1\Ex14.AssemblyInfoInputs.cache
+C:\Users\nborges\Desktop\Exercicios\Lista-Exercicios\Lista Repeticao\Ex14\obj\Debug\netcoreapp3.1\Ex14.AssemblyInfo.cs
+C:\Users\nborges\Desktop\Exercicios\Lista-Exercicios\Lista Repeticao\Ex14\obj\Debug\netcoreapp3.1\Ex14.dll
+C:\Users\nborges\Desktop\Exercicios\Lista-Exercicios\Lista Repeticao\Ex14\obj\Debug\netcoreapp3.1\Ex14.pdb
